@@ -1,0 +1,9 @@
+{
+"jdbc-driver":"com.mysql.cj.jdbc.Driver",
+"connection-url":"jdbc:mysql://localhost:3306/",
+"database":"tmschool",
+"username":"admin",
+"password":"admin",
+"package-name":"com.thinking.machines.ormframework.pojo",
+"jar-file-name":"ormframework.jar"
+}
